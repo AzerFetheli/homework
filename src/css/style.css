@@ -1,0 +1,120 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.first{
+   
+    width: 100%;
+    padding: 360px 0 ;
+    background-image:linear-gradient(to bottom, rgba(92, 77, 66, 0.8) 0%, rgba(92, 77, 66, 0.8) 100%), url("../img/bg-masthead.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    height: 200px;}
+  
+.first h1{
+    color: #fff;
+    margin-bottom: 20px;
+    font-size: 50px
+}
+.first hr{
+    background-color: #f4623a;
+    border: none;
+    height: 3px;
+    width: 50px;
+    margin: 0 auto;
+
+    
+}
+    
+.first p{
+    color: #ffffffbf;
+    margin-bottom: 48px;
+    margin-top: 20px;
+    font-size: 25px;
+}
+
+
+.first a{
+  padding: 20px 36px;
+ background-color: #f4623a;
+ border-radius: 30px;
+text-decoration: none;
+color: #fff;
+font-size: 18px;
+}
+.second{
+    width: 100%;
+    background-color: #f4623a;
+    padding: 128px 0;
+    text-align: center;
+}
+.second h2{
+    color: #fff;
+    margin-bottom: 20px;
+}
+.second hr{
+    background-color: #fff;
+    border: none;
+    width: 40px;
+    height: 3px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+.second p{
+    margin: 0px 0px 24px;
+    color: #ffffffbf;
+    margin-bottom: 40px
+    ;
+
+}
+.second a{background-color: #f8f9fA;
+    padding: 20px 36px;
+    border-radius: 30px;
+    text-decoration: none;
+    color: black;
+    }
+    .third{
+        width: 100%;
+        margin: 0px 24px 48px;
+        height: 100px;
+        background-color: #fff;
+        text-align: center;
+    }
+    .third h2{
+        margin: 0px 0px 8px;
+    }
+    .third hr{
+        background-color: #f4623a;
+        width: 40px;
+        height: 3px;
+        margin: 0 auto;
+        border: none;
+    }
+    .third p{
+color: #6c757d;
+margin: 0px 0px 48px;
+    }
+   .a1{
+    width: 300px;
+    padding: 16px 32px 16px 12px;
+    border-radius: 6px;
+   }
+   .a2{ width: 300px;
+    padding: 16px 32px 16px 12px;
+    border-radius: 6px;   
+}
+.a3{ width: 300px;
+    padding: 16px 32px 16px 12px;
+    border-radius: 6px;
+}
+.ad5{
+    background-color: #f4623a;
+    padding: 30px 50px;
+    border-radius: 20px;
+    color: #fff;
+    border: none;
+    text-decoration: none;
+}
